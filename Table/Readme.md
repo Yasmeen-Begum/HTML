@@ -9,3 +9,7 @@ Phone.html
 Calendar.html
 ----------------------------------------------------------------------
 ![calendar](https://github.com/user-attachments/assets/576145e6-84ad-4325-8325-db58fcaf661a)
+
+Calculator.html
+----------------------------------------------------------------------
+![calculator](https://github.com/user-attachments/assets/633d254c-10db-4871-b668-6c28da0f6284)
